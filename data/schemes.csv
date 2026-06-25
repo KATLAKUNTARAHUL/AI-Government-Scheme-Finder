@@ -1,0 +1,8 @@
+scheme_name,category,description,age_min,age_max,income_max,occupations,states,eligible_categories,benefits,link,keywords
+PM-KISAN,Agriculture,Income support for eligible farmer families,18,65,,Farmer|Agriculturist,Any,Any,Direct annual income support for farmers,https://pmkisan.gov.in,farmer|agriculture|income support
+PM Mudra Yojana,Finance,Collateral-free loans for micro and small businesses,18,65,,Self-employed|Entrepreneur|MSME,Any,Any,Business loans for small enterprises,https://www.mudra.org.in,micro|loan|business|self employed
+PM SVANidhi,Street Vendors,Working capital support for street vendors,18,65,,Street Vendor|Self-employed,Any,Any,Credit support and cashback incentives,https://pmsvanidhi.mohua.gov.in,street vendor|urban|loan
+National Scholarship Portal,Education,Scholarship access for eligible students across India,6,30,500000,Student,Any,SC|ST|OBC|General|EWS,Scholarships for school and higher education,https://scholarships.gov.in,scholarship|education|student
+Ayushman Bharat PM-JAY,Health,Health cover for economically weaker families,0,100,500000,Any,Any,Any,Health insurance cover up to the scheme limit,https://pmjay.gov.in,health|insurance|medical
+Stand-Up India,Entrepreneurship,Loan support for women and SC or ST entrepreneurs,18,65,,Woman Entrepreneur|SC Entrepreneur|ST Entrepreneur,Any,SC|ST|Women,Support for greenfield enterprises,https://www.standupmitra.in,loan|startup|women|sc|st
+Skill India Mission,Employment,Skill development and training opportunities,16,45,,Student|Job Seeker|Unemployed,Any,Any,Training and certification programs,https://www.skillindia.gov.in,skill|training|job seeker|employment
